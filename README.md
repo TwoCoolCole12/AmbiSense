@@ -1,4 +1,4 @@
-# AmbiScout
+# AmbiSense
 A portable environment sensor to sense ambient temperature, humidity, light, movement speed, and more!
 
 Inspired by features on the Starbie, but extended for functionality and development time. 
